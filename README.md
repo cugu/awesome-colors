@@ -41,7 +41,7 @@ Curated list of awesome color palettes, schemes, and tools.
 - ⭐️ [Adobe Color](https://color.adobe.com/) - Create color schemes with a color wheel or browse color combinations.
 - [Coolors](https://coolors.co/) - The color scheme generator.
 - [Color Hunt](https://colorhunt.co/) - A collection of color schemes.
-- [Color Lisa](http://colorlisa.com/) - A list of color schemes inspired by masterpieces of the worlds greatest
+- [Color Lisa](https://colorlisa.com/) - A list of color schemes inspired by masterpieces of the worlds greatest
   artists.
 - [ColorSpace](https://mycolor.space/) - Generate color schemes from one color.
 - [tinte](https://tinte.railly.dev/) - Create, customize and share themes for VS Code or shadcn/ui.
