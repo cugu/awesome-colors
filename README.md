@@ -31,6 +31,7 @@ Curated list of awesome color palettes, schemes, and tools.
 - ⭐️ [Flexoki](https://stephango.com/flexoki) (☀️🌑) - An inky color scheme for prose and code.
 - [Gruvbox](https://github.com/morhetz/gruvbox) (☀️🌑) - A retro groove color scheme for Vim.
 - ⭐️ [Nord](https://www.nordtheme.com/) (☀️🌑) - An arctic, north-bluish color scheme for code editors and terminals.
+- ⭐️ [Rosé Pine](https://rosepinetheme.com/) (☀️🌑) - A soft, warm, and elegant color scheme.
 - ⭐️ [Smyck](https://color.smyck.org/) (🌑) - A dark color scheme for terminals and text editors.
 - [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme) (☀️🌑) - A clean, dark Visual Studio Code theme.
 - [Tomorrow](https://github.com/chriskempson/tomorrow-theme) (☀️🌑) - A set of color schemes designed for code syntax
