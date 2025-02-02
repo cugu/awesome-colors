@@ -13,7 +13,7 @@ Curated list of awesome color palettes, schemes, and tools.
 
 - [Material (v1)](https://m1.material.io/style/color.html#color-color-palette) - Material Design (v1) color palette.
 - [Material (v2)](https://m2.material.io/design/color/the-color-system.html) - Material Design (v2) color palette.
-- ⭐️ [Tailwind](https://tailwindcss.com/docs/customizing-colors) - Tailwind CSS color palette.
+- ⭐️ [Tailwind](https://tailwindcss.com/docs/colors) - Tailwind CSS color palette.
 
 ## Color Schemes
 
