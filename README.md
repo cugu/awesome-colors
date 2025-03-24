@@ -45,7 +45,7 @@ Curated list of awesome color palettes, schemes, and tools.
 - [Color Lisa](https://colorlisa.com/) - A list of color schemes inspired by masterpieces of the worlds greatest
   artists.
 - [ColorSpace](https://mycolor.space/) - Generate color schemes from one color.
-- [tinte](https://tinte.railly.dev/) - Create, customize and share themes for VS Code or shadcn/ui.
+- [tinte](https://tinte.dev/) - Create, customize and share themes for VS Code or shadcn/ui.
 
 ## [Contributing](CONTRIBUTING.md)
 
